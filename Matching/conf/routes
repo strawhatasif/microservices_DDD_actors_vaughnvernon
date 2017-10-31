@@ -1,0 +1,5 @@
+POST /matching/proposals         donebyme.matching.controllers.ProposalsController.submit()
+GET  /matching/proposals/:id     donebyme.matching.controllers.ProposalsController.proposal(id: String)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
