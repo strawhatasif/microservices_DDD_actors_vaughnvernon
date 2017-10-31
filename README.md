@@ -3,4 +3,6 @@ from a workshop I took where I learned about implementing Domain Driven Design w
 
 Written in Scala
 
-Uses Akka
+Frameworks leveraged:
+Play - https://www.playframework.com/documentation/2.6.x/Home
+Akka - https://doc.akka.io/docs/akka/2.5.4/scala/guide/introduction.html
