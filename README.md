@@ -5,4 +5,5 @@ Written in Scala
 
 Frameworks leveraged:
 Play - https://www.playframework.com/documentation/2.6.x/Home
+
 Akka - https://doc.akka.io/docs/akka/2.5.4/scala/guide/introduction.html
